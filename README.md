@@ -2,6 +2,10 @@
 
 ## STUDENT ID: 11024275
 
+```bash
+sudo service prosody start
+```
+
 ### LAB 1
 run:
 ```bash

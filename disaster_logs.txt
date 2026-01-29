@@ -1,5 +1,6 @@
-[2026-01-29 08:10:33] ⚠️ [ALERT] High damage severity detected!
-[2026-01-29 08:10:43] ⚠️ [ALERT] High damage severity detected!
-[2026-01-29 08:11:03] ⚠️ [ALERT] High damage severity detected!
-[2026-01-29 08:11:28] ⚠️ [ALERT] High damage severity detected!
-[2026-01-29 08:11:33] ⚠️ [ALERT] High damage severity detected!
+[2026-01-29 11:37:22] !! [ALERT] High damage severity detected!
+[2026-01-29 11:37:27] !! [ALERT] High damage severity detected!
+[2026-01-29 11:38:17] !! [ALERT] High damage severity detected!
+[2026-01-29 11:38:27] !! [ALERT] High damage severity detected!
+[2026-01-29 11:38:52] !! [ALERT] High damage severity detected!
+[2026-01-29 11:38:57] !! [ALERT] High damage severity detected!
